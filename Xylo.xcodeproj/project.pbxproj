@@ -21,6 +21,7 @@
 		D390599F24C9B4C5004D390D /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = D390599824C9B4C5004D390D /* note1.wav */; };
 		D39059A024C9B4C5004D390D /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = D390599924C9B4C5004D390D /* note3.wav */; };
 		D39059A124C9B4C5004D390D /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = D390599A24C9B4C5004D390D /* note2.wav */; };
+		D39059A524C9B9DD004D390D /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D39059A424C9B9DC004D390D /* Icon-60@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		D390599824C9B4C5004D390D /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note1.wav; path = Xylo/note1.wav; sourceTree = SOURCE_ROOT; };
 		D390599924C9B4C5004D390D /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note3.wav; path = Xylo/note3.wav; sourceTree = SOURCE_ROOT; };
 		D390599A24C9B4C5004D390D /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = note2.wav; path = Xylo/note2.wav; sourceTree = SOURCE_ROOT; };
+		D39059A424C9B9DC004D390D /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				D390597D24C9B382004D390D /* SceneDelegate.swift */,
 				D390598F24C9B402004D390D /*  VIewController.swift */,
 				D390599124C9B42D004D390D /* CustomButton.swift */,
+				D39059A424C9B9DC004D390D /* Icon-60@3x.png */,
 				D390598124C9B382004D390D /* Main.storyboard */,
 				D390598424C9B383004D390D /* Assets.xcassets */,
 				D390598624C9B383004D390D /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D39059A524C9B9DD004D390D /* Icon-60@3x.png in Resources */,
 				D39059A024C9B4C5004D390D /* note3.wav in Resources */,
 				D39059A124C9B4C5004D390D /* note2.wav in Resources */,
 				D390599D24C9B4C5004D390D /* note7.wav in Resources */,
