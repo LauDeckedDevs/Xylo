@@ -1,4 +1,4 @@
-# Xylo
+
 # Whats Xylo?
 Xylo is an iOS App built with swift on top of UIKit and AVFoundation wich plays a certain musical note depending on the tile the user touch.
 
